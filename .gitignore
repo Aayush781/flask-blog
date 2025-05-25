@@ -1,0 +1,6 @@
+.env
+__pycache__/
+instance/
+env/
+site.db
+*.pyc
